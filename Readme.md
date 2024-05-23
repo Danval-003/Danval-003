@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Daniel Valdez, aka Kontrast
+# Hi there! 👋 I'm Daniel Valdez
 
 Welcome to my GitHub profile! I'm a passionate computer science and information technology engineering student at the Universidad del Valle de Guatemala. With a strong affinity for video games, programming, and staying on top of the latest technologies, I'm constantly exploring and expanding my knowledge in the vast world of computing. 
 
