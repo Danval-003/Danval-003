@@ -24,4 +24,6 @@ If you're interested in discussing technology, gaming, or collaborating on excit
 
 Don't hesitate to reach out—I'm looking forward to connecting with like-minded individuals and pushing the boundaries of what's possible in the world of technology. Let's create something amazing together! 🌟
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danval-003&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danval-003)](https://github.com/Danval-003/github-readme-stats)
