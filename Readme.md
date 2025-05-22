@@ -73,10 +73,6 @@ Welcome to my GitHub profile! I'm a passionate computer science and information 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white">
-<img src="https://img.shields.io/badge/Google_Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white">
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
@@ -108,7 +104,7 @@ If you're interested in discussing technology, gaming, or collaborating on excit
 
 Don't hesitate to reach out—I'm looking forward to connecting with like-minded individuals and pushing the boundaries of what's possible in the world of technology. Let's create something amazing together! 🌟
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danval-003&layout=compact&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danval-003&hide=jupyter%20notebook&layout=compact&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danval-003&layout=compact&theme=aura_dark)](https://github.com/Danval-003/github-readme-stats)
 
